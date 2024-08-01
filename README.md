@@ -6,7 +6,7 @@ The main goal of this project is to make the purpose and objectives of our data 
 
 ## Company Background
 
-AtliQ Hardware, a rapidly growing company in the computer and accessories market, has expanded its business globally, selling products through retailers, direct sales, and distributors. Recently, the company faced unforeseen losses after opening a store in America based on decisions derived from surveys, intuition, and limited Excel analysis. In contrast, their competitors have robust analytics teams to make data→driven decisions. These setbacks have highlighted the critical need for AtliQ Hardware to establish a dedicated analytics team to provide data→driven insights and decisions, ensuring better survival and competitiveness in the industry.
+AtliQ Hardware is a fast-growing company that sells computers and accessories all over the world through retailers, direct sales, and distributors. Recently, the company lost money after opening a store in America based on surveys, intuition, and some Excel analysis. Their competitors, however, have strong analytics teams that use data to make decisions. This situation shows that AtliQ Hardware needs its own analytics team to use data for better decision-making and to stay competitive in the industry.
 
 [Live Report Link]
 
