@@ -8,7 +8,7 @@ The main goal of this project is to make the purpose and objectives of our data 
 
 AtliQ Hardware is a fast-growing company that sells computers and accessories all over the world through retailers, direct sales, and distributors. Recently, the company lost money after opening a store in America based on surveys, intuition, and some Excel analysis. Their competitors, however, have strong analytics teams that use data to make decisions. This situation shows that AtliQ Hardware needs its own analytics team to use data for better decision-making and to stay competitive in the industry.
 
-[Live Report Link]
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMzI1MjJkYzEtMGVjNC00NWQwLWE2NzktN2VlZjRmMjk2MDFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tools Used
 
