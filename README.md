@@ -100,3 +100,6 @@ Based on the mock→ups received as requirements, the team will start designing 
 ## Data Model
 
 ![DataModel](https://github.com/user-attachments/assets/7057ec28-eda8-4c3c-9991-eb4b3ef7a4fb)
+
+
+[Download report](https://github.com/Anil-Bhukya/Business-Insights-360/blob/main/Business-Insights-360.pbix)
